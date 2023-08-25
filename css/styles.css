@@ -189,6 +189,7 @@ line-height: 1.2;
 /* 120% */
 letter-spacing: 0.02em;
 column-gap: 24px;
+width: calc((100% - 72px) / 4);
         
 }
 .section-two {
@@ -228,7 +229,6 @@ width: calc((100% - 72px) / 4);
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-    margin-bottom: 8px;
 }
 .title-two {
     color: var(--navyblue, #2E2F42);
@@ -242,7 +242,7 @@ width: calc((100% - 72px) / 4);
         letter-spacing: 0.02em;
         text-transform: capitalize;
         margin-bottom: 72px;
-    
+    margin-bottom: 8px;
     }
 
  /*Section 3*/ 
@@ -307,6 +307,7 @@ display: block;
   height: auto;
   margin-bottom: 32px;
   display: block;
+width: ;calc((100% - 72px) / 4);
 }
 
  /*Section-4*/

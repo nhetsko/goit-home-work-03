@@ -279,7 +279,7 @@ color: var(--navyblue, #2E2F42);
     /* 120% */
     letter-spacing: 0.02em;
     text-align: center;
-
+margin-bottom: 8px;
     
 }
 .section-three-text {
@@ -292,7 +292,7 @@ font-family: 'Roboto', sans-serif;
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.02em;
-    margin-bottom: 8px;
+   
 }
 .images-three {
 background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;

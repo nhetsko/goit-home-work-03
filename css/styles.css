@@ -243,6 +243,7 @@ flex-basis: calc((100% - 72px) / 4);
         letter-spacing: 0.02em;
         text-transform: capitalize;
         margin-bottom: 72px;
+        flex-basis: calc((100% - 72px) / 4);
 
     }
 
@@ -272,7 +273,9 @@ flex-basis: calc((100% - 72px) / 4);
    .title-paragraf {
     padding: 32px 0;
     text-align: center;
-    margin-bottom: 8px;}
+    margin-bottom: 8px;
+    flex-basis: calc((100% - 72px) / 4);
+}
 
 .title-section-three {
 color: var(--navyblue, #2E2F42);

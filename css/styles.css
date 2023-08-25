@@ -216,7 +216,8 @@ margin-right: auto;
 .section-two-item {
 
 margin-right: 24px;
-width: calc((100% - 72px) / 4);
+width: calc( ( 100% - 72px ) / 4 );
+
 }
 .visually-hidden {
     position: absolute;
@@ -266,14 +267,13 @@ border-radius: 0px 0px 4px 4px;
 margin-right: 24px;
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
     padding-bottom: 32px;
-width: calc((100% - 72px) / 4);
+width: calc(( 100% - 72px ) / 4);
    }
    .title-paragraf {
     padding: 32px 0;
     text-align: center;
-    margin-bottom: 8px
+    margin-bottom: 8px;}
 
-   } 
 .title-section-three {
 color: var(--navyblue, #2E2F42);
     text-align: center;
@@ -285,7 +285,7 @@ color: var(--navyblue, #2E2F42);
     /* 120% */
     letter-spacing: 0.02em;
     text-align: center;
-
+margin-bottom: 8px;
     
 }
 .section-three-text {

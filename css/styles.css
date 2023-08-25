@@ -213,8 +213,9 @@ margin-right: auto;
     
 }
 .section-two-item {
-    width: 1158px;
     width: calc(( 100% - 72px) / 4);
+    margin: 0;
+    padding-left: 0;
 }
 .visually-hidden {
     position: absolute;
@@ -263,6 +264,8 @@ gap: 24px;
 background: var(--white, #FFF);
 border-radius: 0px 0px 4px 4px;
 width: calc((100% - 72px)/ 4);
+margin: 0;
+    padding-left: 0;
 }
 
 .title-paragraf {
